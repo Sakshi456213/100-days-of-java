@@ -28,3 +28,21 @@ This is a beginner-friendly Java program that checks whether a number is Even or
 
 ## Output
 Even
+
+
+# Print Numbers from 1 to 20
+
+This Java program prints numbers from 1 to 20 using a for loop.
+
+## Concepts Used
+- For Loop
+- Increment Operator
+- Loop Condition
+- System.out.println()
+
+## Output
+1
+2
+3
+...
+20
