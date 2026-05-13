@@ -46,3 +46,16 @@ This Java program prints numbers from 1 to 20 using a for loop.
 3
 ...
 20
+
+# Addition Of Two Numbers
+
+This Java program adds two numbers and prints the result using arithmetic operator (+).
+
+## Concepts Used
+- Variables
+- Arithmetic Operator (+)
+- Storing Values
+- System.out.println()
+
+## Output
+12
