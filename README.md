@@ -59,3 +59,19 @@ This Java program adds two numbers and prints the result using arithmetic operat
 
 ## Output
 12
+
+# Print Name, Age and City
+
+This Java program stores and prints Name, Age, and City using String and Integer variables.
+
+## Concepts Used
+- Variables
+- String Datatype
+- Integer Datatype
+- Concatenation Operator (+)
+- System.out.println()
+
+## Output
+Name: Sakshi
+Age: 23
+City: Pune
