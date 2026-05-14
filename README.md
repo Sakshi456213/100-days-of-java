@@ -105,3 +105,25 @@ This Java program checks whether a number is Positive, Negative, or Zero using i
 
 ## Output
 Negative
+
+# Reverse Numbers from 10 to 1
+
+This Java program prints numbers from 10 to 1 in reverse order using a for loop.
+
+## Concepts Used
+- For Loop
+- Decrement Operator (--)
+- Loop Condition
+- System.out.println()
+
+## Output
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
