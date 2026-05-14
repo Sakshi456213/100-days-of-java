@@ -127,3 +127,21 @@ This Java program prints numbers from 10 to 1 in reverse order using a for loop.
 3
 2
 1
+
+# Multiplication Table of 5
+
+This Java program prints the multiplication table of 5 using a for loop.
+
+## Concepts Used
+- For Loop
+- Increment Operator (++)
+- Arithmetic Operator (*)
+- Loop Condition
+- System.out.println()
+
+## Output
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
