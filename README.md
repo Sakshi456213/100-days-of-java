@@ -91,3 +91,17 @@ This Java program compares two numbers and prints the greater number using if-el
 
 ## Output
 B is Greater
+
+# Check Positive Negative Or Zero
+
+This Java program checks whether a number is Positive, Negative, or Zero using if-else if conditional statements.
+
+## Concepts Used
+- Variables
+- If-Else If Statement
+- Comparison Operators (>, <)
+- Conditional Checking
+- System.out.println()
+
+## Output
+Negative
