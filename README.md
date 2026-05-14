@@ -75,3 +75,19 @@ This Java program stores and prints Name, Age, and City using String and Integer
 Name: Sakshi
 Age: 23
 City: Pune
+
+## Day 2 Program
+
+# Largest Of Two Numbers
+
+This Java program compares two numbers and prints the greater number using if-else condition.
+
+## Concepts Used
+- Variables
+- If-Else Statement
+- Comparison Operator (>)
+- Conditional Checking
+- System.out.println()
+
+## Output
+B is Greater
