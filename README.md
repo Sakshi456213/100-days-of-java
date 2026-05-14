@@ -145,3 +145,21 @@ This Java program prints the multiplication table of 5 using a for loop.
 5 x 3 = 15
 ...
 5 x 10 = 50
+
+# Multiplication Table of 18
+
+This Java program prints the multiplication table of 18 using a for loop.
+
+## Concepts Used
+- For Loop
+- Increment Operator (++)
+- Arithmetic Operator (*)
+- Loop Condition
+- System.out.println()
+
+## Output
+18 x 1 = 18
+18 x 2 = 36
+18 x 3 = 54
+...
+18 x 10 = 180
