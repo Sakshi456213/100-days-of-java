@@ -163,3 +163,16 @@ This Java program prints the multiplication table of 18 using a for loop.
 18 x 3 = 54
 ...
 18 x 10 = 180
+
+# Division Of Two Numbers
+
+This Java program divides two numbers and prints the result using arithmetic operator (/).
+
+## Concepts Used
+- Variables
+- Arithmetic Operator (/)
+- Storing Values
+- System.out.println()
+
+## Output
+Division is: 4
