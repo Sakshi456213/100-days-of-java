@@ -176,3 +176,17 @@ This Java program divides two numbers and prints the result using arithmetic ope
 
 ## Output
 Division is: 4
+
+
+# Subtraction Of Two Numbers
+
+This Java program subtracts two numbers and prints the result using arithmetic operator (-).
+
+## Concepts Used
+- Variables
+- Arithmetic Operator (-)
+- Storing Values
+- System.out.println()
+
+## Output
+Subtraction is: 5
