@@ -190,3 +190,17 @@ This Java program subtracts two numbers and prints the result using arithmetic o
 
 ## Output
 Subtraction is: 5
+
+# Smallest Of Two Numbers
+
+This Java program compares two numbers and prints the smaller number using if-else condition.
+
+## Concepts Used
+- Variables
+- If-Else Statement
+- Comparison Operator (<)
+- Conditional Checking
+- System.out.println()
+
+## Output
+A is Smaller
