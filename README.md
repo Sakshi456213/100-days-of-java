@@ -221,3 +221,20 @@ This Java program prints numbers from 1 to 100 using a for loop.
 3
 ...
 100
+
+# Reverse Numbers from 100 to 0
+
+This Java program prints numbers from 100 to 0 in reverse order using a for loop.
+
+## Concepts Used
+- For Loop
+- Decrement Operator (--)
+- Loop Condition
+- System.out.println()
+
+## Output
+100
+99
+98
+...
+0
