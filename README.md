@@ -204,3 +204,20 @@ This Java program compares two numbers and prints the smaller number using if-el
 
 ## Output
 A is Smaller
+
+# Print Numbers from 1 to 100
+
+This Java program prints numbers from 1 to 100 using a for loop.
+
+## Concepts Used
+- For Loop
+- Increment Operator (++)
+- Loop Condition
+- System.out.println()
+
+## Output
+1
+2
+3
+...
+100
