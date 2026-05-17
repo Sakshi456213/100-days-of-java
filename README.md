@@ -254,3 +254,24 @@ Enter Your Name:
 Sakshi
 
 Hello Sakshi
+
+
+# Addition Of Two Numbers using Scanner
+
+This Java program uses Scanner class to take two numbers as input and prints their addition.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- Integer Variables
+- Arithmetic Operator (+)
+- System.out.println()
+
+## Output
+Enter First Number:
+5
+
+Enter Second Number:
+7
+
+Sum is: 12
