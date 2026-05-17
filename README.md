@@ -238,3 +238,19 @@ This Java program prints numbers from 100 to 0 in reverse order using a for loop
 98
 ...
 0
+
+# Print Hello World using Scanner
+
+This Java program uses Scanner class to take user input and print a Hello message.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- String Variable
+- System.out.println()
+
+## Output
+Enter Your Name:
+Sakshi
+
+Hello Sakshi
