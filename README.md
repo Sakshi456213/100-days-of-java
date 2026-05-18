@@ -295,3 +295,20 @@ Enter Second Number:
 7
 
 Sum is: 12
+
+# Print Name using Scanner
+
+This Java program uses Scanner class to take user name as input and print it using output statement.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- String Variable
+- Input Handling
+- System.out.println()
+
+## Output
+Enter Your Name:
+Sakshi
+
+Hello Sakshi
