@@ -312,3 +312,23 @@ Enter Your Name:
 Sakshi
 
 Hello Sakshi
+
+# Subtraction Of Two Numbers using Scanner
+
+This Java program uses Scanner class to take two numbers as input and prints their subtraction.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- Integer Variables
+- Arithmetic Operator (-)
+- System.out.println()
+
+## Output
+Enter First Number:
+10
+
+Enter Second Number:
+5
+
+Subtraction is: 5
