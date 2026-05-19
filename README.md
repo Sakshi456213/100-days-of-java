@@ -358,3 +358,25 @@ Enter a Number:
 8
 9
 10
+
+
+# Print Numbers from 1 to 100 using Scanner
+
+This Java program uses Scanner class and for loop to print numbers from 1 to 100.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- For Loop
+- Loop Condition
+- Increment Operator (++)
+
+## Output
+Enter a Number:
+100
+
+1
+2
+3
+...
+100
