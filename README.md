@@ -332,3 +332,29 @@ Enter Second Number:
 5
 
 Subtraction is: 5
+
+# Print Numbers from 1 to 10 using Scanner
+
+This Java program uses Scanner class and for loop to print numbers from 1 to 10.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- For Loop
+- Loop Condition
+- Increment Operator (++)
+
+## Output
+Enter a Number:
+10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
