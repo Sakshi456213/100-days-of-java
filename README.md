@@ -380,3 +380,24 @@ Enter a Number:
 3
 ...
 100
+
+# Multiplication Table of 5 using Scanner
+
+This Java program uses Scanner class and for loop to print the multiplication table of 5.
+
+## Concepts Used
+- Scanner Class
+- User Input
+- For Loop
+- Arithmetic Operator (*)
+- Increment Operator (++)
+
+## Output
+Enter a Number:
+5
+
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
