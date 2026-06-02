@@ -177,7 +177,7 @@ This Java program divides two numbers and prints the result using arithmetic ope
 ## Output
 Division is: 4
 
-
+## Day 3
 # Subtraction Of Two Numbers
 
 This Java program subtracts two numbers and prints the result using arithmetic operator (-).
@@ -205,6 +205,7 @@ This Java program compares two numbers and prints the smaller number using if-el
 ## Output
 A is Smaller
 
+## Day 4
 # Print Numbers from 1 to 100
 
 This Java program prints numbers from 1 to 100 using a for loop.
@@ -239,6 +240,7 @@ This Java program prints numbers from 100 to 0 in reverse order using a for loop
 ...
 0
 
+## Day 5
 # Print Hello World using Scanner
 
 This Java program uses Scanner class to take user input and print a Hello message.
@@ -255,7 +257,7 @@ Sakshi
 
 Hello Sakshi
 
-
+## Day 6
 # Addition Of Two Numbers using Scanner
 
 This Java program uses Scanner class to take two numbers as input and prints their addition.
@@ -313,6 +315,7 @@ Sakshi
 
 Hello Sakshi
 
+## Day 7
 # Subtraction Of Two Numbers using Scanner
 
 This Java program uses Scanner class to take two numbers as input and prints their subtraction.
@@ -402,6 +405,8 @@ Enter a Number:
 ...
 5 x 10 = 50
 
+
+## Day 8
 # HelloWorld
 
 This Java program prints "Hello World" on the screen.
