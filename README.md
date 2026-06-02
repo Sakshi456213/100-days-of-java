@@ -524,3 +524,25 @@ First Number: 20
 Second Number: 5
 
 Division is: 4
+
+# FindSquareOfNumber
+
+This Java program calculates the square of a number and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (*)
+- Variable Initialization
+- Mathematical Calculation
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+Number: 5
+
+Square is: 25
