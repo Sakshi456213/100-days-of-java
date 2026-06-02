@@ -455,3 +455,26 @@ This Java program adds two numbers and prints the result.
 First Number: 15 
 Second Number: 20 
 Sum is: 35
+
+
+# SubtractionOfTwoNumbers
+
+This Java program subtracts two numbers and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (-)
+- Variable Initialization
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+First Number: 50
+Second Number: 30
+
+Subtraction is: 20
