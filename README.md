@@ -430,3 +430,23 @@ This Java program prints a name on the screen using System.out.println().
 
 ## Output
 Sakshi
+
+# AdditionOfTwoNumbers
+This Java program adds two numbers and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (+)
+- Variable Initialization
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+First Number: 15 
+Second Number: 20 
+Sum is: 35
