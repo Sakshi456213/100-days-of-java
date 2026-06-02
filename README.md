@@ -478,3 +478,26 @@ First Number: 50
 Second Number: 30
 
 Subtraction is: 20
+
+
+# MultiplicationOfTwoNumbers
+
+This Java program multiplies two numbers and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (*)
+- Variable Initialization
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+First Number: 3
+Second Number: 5
+
+Multiplication is: 15
