@@ -546,3 +546,25 @@ This Java program calculates the square of a number and prints the result.
 Number: 5
 
 Square is: 25
+
+# FindCubeOfNumber
+
+This Java program calculates the cube of a number and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (*)
+- Variable Initialization
+- Mathematical Calculation
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+Number: 3
+
+Cube is: 27
