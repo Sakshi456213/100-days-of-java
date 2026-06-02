@@ -501,3 +501,26 @@ First Number: 3
 Second Number: 5
 
 Multiplication is: 15
+
+
+# DivisionOfTwoNumbers
+
+This Java program divides two numbers and prints the result.
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- Variables
+- Integer Data Type
+- Arithmetic Operator (/)
+- Variable Initialization
+- Storing Values
+- System.out.println()
+- Output Statement
+
+## Output
+First Number: 20
+Second Number: 5
+
+Division is: 4
