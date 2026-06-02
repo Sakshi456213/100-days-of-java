@@ -415,3 +415,18 @@ This Java program prints "Hello World" on the screen.
 
 ## Output
 Hello World
+
+# PrintName
+
+This Java program prints a name on the screen using System.out.println().
+
+## Concepts Used
+- Package Declaration
+- Class Declaration
+- Main Method
+- String Literal
+- System.out.println()
+- Output Statement
+
+## Output
+Sakshi
